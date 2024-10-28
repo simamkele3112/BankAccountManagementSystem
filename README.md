@@ -1,4 +1,3 @@
-BankAccountManagementSystem
 Welcome to the BankAccountManagementSystem project! This console-based Java application simulates simple banking operations for checking and savings accounts, allowing users to deposit, withdraw, and calculate interest. It's a straightforward project designed to showcase object-oriented programming principles, such as encapsulation, inheritance, and exception handling.
 
 📝 Project Description
